@@ -5,3 +5,10 @@ html {
   -o-background-size: cover;
   background-size: cover;
 }
+
+#tagline {
+    position: absolute;
+    bottom: 0px;
+    color: white;
+    font-size: 3em;
+}
