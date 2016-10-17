@@ -1,9 +1,14 @@
-html {
-  background: url(../images/graffiti1.jpg) no-repeat center center fixed;
+body {
+  margin: 0;
+}
+
+#main {
+  background: url(../images/graffiti1.jpg) no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  height: 150vh;
 }
 
 #tagline {
@@ -11,4 +16,10 @@ html {
     bottom: 0px;
     color: white;
     font-size: 3em;
+}
+
+#testing {
+  height: 100vh;
+  color: white;
+  background-color: black;
 }
