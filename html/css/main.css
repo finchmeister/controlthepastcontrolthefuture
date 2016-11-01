@@ -12,3 +12,8 @@ html {
     color: white;
     font-size: 3em;
 }
+@import url('https://fonts.googleapis.com/css?family=Fjalla+One');
+#coming-soon {
+  text-transform: uppercase;
+  font-family: 'Fjalla One', sans-serif;
+}
